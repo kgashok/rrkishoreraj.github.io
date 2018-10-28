@@ -6,9 +6,9 @@ body {
   margin: 2em;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+header { 
+  background-color: wheat;
+  font-size: 1.75rem;
 }
 
 #infix{
